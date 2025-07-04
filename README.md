@@ -73,7 +73,7 @@ iot-pipeline/
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/iot-pipeline.git  # TODO: update URL
+git clone https://github.com/savvaskat/iot-pipeline.git
 cd iot-pipeline
 ```
 
