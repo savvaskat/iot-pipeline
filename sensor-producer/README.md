@@ -37,7 +37,7 @@ This microservice receives IoT sensor data via a REST API and publishes it to an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sensor-producer.git #TODO
+git clone https://github.com/savvaskat/iot-pipeline.git
 cd iot-pipeline/sensor-producer
 ```
 
