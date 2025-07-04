@@ -36,7 +36,7 @@ This microservice consumes IoT sensor data from a Kafka topic and stores it in M
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/iot-pipeline.git  # TODO: update this
+git clone https://github.com/savvaskat/iot-pipeline.git
 cd iot-pipeline/sensor-consumer
 ```
 
